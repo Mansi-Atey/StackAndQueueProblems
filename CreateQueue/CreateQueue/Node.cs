@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PeekAndPop
+namespace CreateQueue
 {
     class Node
     {

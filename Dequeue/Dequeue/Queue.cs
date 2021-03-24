@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CreateQueue
+namespace Dequeue
 {
     class Queue
     {
@@ -23,6 +23,17 @@ namespace CreateQueue
             }
             Console.WriteLine("{0} inserted into queue ", node.data);
 
+        }
+        internal void Dequeue()
+        {
+            if (head == null)
+            {
+                Console.WriteLine("Queue is Empty");
+            }
+            else
+            {
+                head = head.next;
+            }
         }
         internal void Display()
         {

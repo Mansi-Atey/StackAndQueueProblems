@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateStack", "CreateStack\CreateStack.csproj", "{96635221-1C6A-4856-80DD-BE126350C7AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeekAndPop", "PeekAndPop\PeekAndPop.csproj", "{A222FAA6-67C3-4E0D-BF46-A310F792A5E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96635221-1C6A-4856-80DD-BE126350C7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96635221-1C6A-4856-80DD-BE126350C7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96635221-1C6A-4856-80DD-BE126350C7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96635221-1C6A-4856-80DD-BE126350C7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A222FAA6-67C3-4E0D-BF46-A310F792A5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A222FAA6-67C3-4E0D-BF46-A310F792A5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A222FAA6-67C3-4E0D-BF46-A310F792A5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A222FAA6-67C3-4E0D-BF46-A310F792A5E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {09F2AFD9-17F6-46AA-B5C4-DF7FD7EED45F}
+		SolutionGuid = {D6B52708-0973-4EDD-81F7-4CD593793B79}
 	EndGlobalSection
 EndGlobal

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CreateStack
+namespace PeekAndPop
 {
-   public class Node
+    class Node
     {
         public int data;
         public Node next;
